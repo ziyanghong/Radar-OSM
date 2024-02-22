@@ -25,9 +25,10 @@ To build this you need (if not using the dockerfile):
 
 Build Instructions (this is to build the osm_objects.so):
  - from src run:
+  ```
     cmake .
     make
-   ```
+  ```
 
 
 # 3. Download the datasets described in our paper at:
