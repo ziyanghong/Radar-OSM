@@ -31,7 +31,7 @@ Build Instructions (this is to build the osm_objects.so):
 
 
 # 3. Download the datasets at:
-Download the Navtech radar sequences described in our paper from [here](https://drive.google.com/drive/folders/11NB65HIwFoA286uVMTwplR_BBaan-l80?usp=sharing), unzip the data Oxford_Dataset.zip and Boreas_Rdar_dataset.zip in /data/radar/
+Download the Navtech radar sequences described in our paper from [here](https://drive.google.com/drive/folders/11NB65HIwFoA286uVMTwplR_BBaan-l80?usp=sharing), unzip the data Oxford_Dataset.zip and Boreas_Rdar_dataset.zip in /data/radar/ 
 
 # 4. How to run
 To see how to run the code, please look at the shell scripts (files ending in .sh) in src.  To run the sequences used in the paper:
