@@ -1,0 +1,11 @@
+-I/usr/include
+-I/usr/include/python2.7
+-I/usr/include/qt4/QtCore
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtSvg
+-I/usr/include/qt4/QtXml
+-I/usr/include/qt4/QtOpenGL
+-I/usr/include/qt4
+-o
+/home/hong/Documents/Lost/src/moc_mapviewer.cxx
+/home/hong/Documents/Lost/src/mapviewer.h

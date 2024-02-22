@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,osm_objects.so -o osm_objects.so CMakeFiles/osm_objects.dir/bindings.cpp.o CMakeFiles/osm_objects.dir/objects.cpp.o CMakeFiles/osm_objects.dir/coordinates.cpp.o CMakeFiles/osm_objects.dir/utils.cpp.o -lboost_serialization -lboost_program_options -lboost_python -lpython2.7 

@@ -1,0 +1,18 @@
+[sequence_data]
+data_dir=../data
+map=%(data_dir)s/map_oxford.bin
+dataname=oxford-01-10-12-32-52
+odometry=%(data_dir)s/odometry/radar/2019-01-10-12-32-52-radar-oxford-10k.txt
+gps_data=%(data_dir)s/map_trajectories/2019-01-10-12-32-52-radar-oxford-10k.txt
+radar_data=%(data_dir)s/radar/Oxford_Dataset/2019-01-10-12-32-52-radar-oxford-10k/radar_zfill_six/
+dt=0.25
+data_skip=5
+dynamics_params = params/stereo_dynamics_params.p
+data_source = radar
+sequence_id = 00
+max_range = 163
+selected_max_distance = 100
+radar_resolution = 0.0438
+start_position = 51.762047,-1.262764
+drive_side=drive_left
+debug_radar=1

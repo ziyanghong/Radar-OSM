@@ -1,0 +1,4 @@
+/home/hong/Documents/Lost/src/CMakeFiles/rebuild_cache.dir
+/home/hong/Documents/Lost/src/CMakeFiles/edit_cache.dir
+/home/hong/Documents/Lost/src/CMakeFiles/osm_convert.dir
+/home/hong/Documents/Lost/src/CMakeFiles/osm_objects.dir

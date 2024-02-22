@@ -1,0 +1,14 @@
+# Fix the mac address
+docker run --mac-address=1c:c1:0c:c0:3c:a3 -it -v /home/hong/Documents:/home/ziyang radarosm 
+# Common one
+sudo chmod 777 /var/run/docker.sock 
+docker run -it -v /media/data/RadarOSM:/home/ziyang radarosm 
+# build image
+docker build . -t radarosm
+
+# To make gpu visable in the container
+docker run --rm --gpus all -it -v /media/data/RadarOSM:/home/ziyang radarosm
+
+# To compile Cython code
+pip install Cython==0.29.33
+python setup.py build_ext --inplace

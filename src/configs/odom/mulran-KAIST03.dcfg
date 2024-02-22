@@ -1,0 +1,18 @@
+[sequence_data]
+data_dir=../data
+map=%(data_dir)s/map_kaist.bin
+dataname=mulran-KAIST03
+odometry=%(data_dir)s/odometry/radar/KAIST03.txt
+gps_data=%(data_dir)s/map_trajectories/KAIST03.txt
+radar_data=%(data_dir)s/radar/MulRan_Dataset/KAIST03/radar_zfill_six/
+dt=0.25
+data_skip=5
+dynamics_params = params/stereo_dynamics_params.p
+data_source = odom
+sequence_id = 00
+max_range = 200
+selected_max_distance = 100
+radar_resolution = 0.06
+start_position = 36.3683635,127.3620239
+drive_side=drive_right
+debug_radar=1

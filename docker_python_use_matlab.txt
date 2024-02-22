@@ -1,0 +1,4 @@
+cd /home/ziyang/MATLAB/extern/engines/python
+python setup.py install
+import matlab.engine
+eng = matlab.engine.start_matlab()

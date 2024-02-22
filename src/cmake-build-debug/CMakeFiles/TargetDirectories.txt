@@ -1,0 +1,4 @@
+/home/pro/Documents/Lost/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pro/Documents/Lost/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pro/Documents/Lost/src/cmake-build-debug/CMakeFiles/osm_objects.dir
+/home/pro/Documents/Lost/src/cmake-build-debug/CMakeFiles/osm_convert.dir

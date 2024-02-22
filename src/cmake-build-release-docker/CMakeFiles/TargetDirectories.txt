@@ -1,0 +1,4 @@
+/tmp/src/cmake-build-release-docker/CMakeFiles/rebuild_cache.dir
+/tmp/src/cmake-build-release-docker/CMakeFiles/edit_cache.dir
+/tmp/src/cmake-build-release-docker/CMakeFiles/osm_objects.dir
+/tmp/src/cmake-build-release-docker/CMakeFiles/osm_convert.dir

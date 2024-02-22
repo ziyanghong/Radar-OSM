@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+951ad4760cc872b3d0b192f4fe013fec moc_mapviewer.cxx
+929f7dbf331d19f9a009e32aac7ff6e7 moc_mapwidget.cxx
+69b1a2d9e9fdce95c48a1613fa2ca6bd ui_mapviewer.h

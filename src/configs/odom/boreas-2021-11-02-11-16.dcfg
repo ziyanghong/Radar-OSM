@@ -1,0 +1,18 @@
+[sequence_data]
+data_dir=../data
+map=%(data_dir)s/map_glen_shields.bin
+dataname=boreas-2021-11-02-11-16
+odometry=%(data_dir)s/odometry/radar/boreas-2021-11-02-11-16.txt
+gps_data=%(data_dir)s/map_trajectories/boreas-2021-11-02-11-16.txt
+radar_data=%(data_dir)s/radar/Boreas_Radar_Dataset/boreas-2021-11-02-11-16/radar_zfill_six/
+dt=0.25
+data_skip=5
+dynamics_params = params/stereo_dynamics_params.p
+data_source = odom
+sequence_id = 00
+max_range = 250
+selected_max_distance = 100
+radar_resolution = 0.0438
+start_position = 51.762047,-1.262764
+drive_side=drive_right
+debug_radar=1
