@@ -61,7 +61,7 @@ To visualize what's going on in each frame:
 <img src="images/coordinate.png" width = 35% height = 35%/>
 
 # 6. Citation
-If you use Radar-SLAM in an academic work, please cite:
+If you use Radar-OSM in an academic work, please cite:
 ```bibtex
 @inproceedings{hong2023large,
   title={Large-Scale Radar Localization using Online Public Maps},
